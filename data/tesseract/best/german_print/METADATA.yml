@@ -6,7 +6,7 @@ model:
   defaultmodel: >-
     https://github.com/JKamlah/german-print-ocr-model/tree/main/data/tesseract/best/german_print/german_print_20.traineddata
   description: |-
-    OCR model for German prints trained from several datasets.
+    OCR model for german prints trained from several datasets.
     Best model variant for Tesseract.
     See https://github.com/UB-Mannheim/kraken/wiki/Training-German-Print
   fileformat: .traineddata
